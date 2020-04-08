@@ -1,6 +1,6 @@
 # covid-alert
 
-This projetc aim to alert users of potential Covid infectious contact base on their interactions history. 
+This project aim to alert users of potential Covid infectious contact base on their interactions history. 
 
 API can be coupled with a bluetooth based app that share a user key not tied to any personal informations.
 
